@@ -1,0 +1,13 @@
+{
+    "name": "pizaini/kuliahwb",
+    "description": "Kuliah Web Tahun 2022",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Pizaini",
+            "email": "pizaini@uin-suska.ac.id"
+        }
+    ],
+    "minimum-stability": "stable"
+}
